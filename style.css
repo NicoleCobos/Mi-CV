@@ -1,0 +1,40 @@
+html, body{
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    display: flex;
+    flex-flow: row;
+    font-family: Georgia, 'Times New Roman', Times, serif; color: aliceblue;
+
+}
+
+.container-1{
+    background-color: blueviolet;
+    width: 25%;
+    height: 100%;
+    margin: 0px 20px 0px 15px;
+    padding: 0px 40px 10px 40px;
+}
+
+.container-2{
+    width: 75%;
+    height: 100%;
+    margin: 0px 15px 0px 30px;
+    padding: 15px 40px 20px 40px;
+}
+
+.contact{
+    display: flex;
+    flex-direction: column;
+}
+.container-1 .image-profile{
+    padding-left: 20%;
+    border-radius: 30%;
+}
+.ti-black{
+    background-color: black;
+}
+.ti-violet{
+    background-color: blueviolet;
+}
