@@ -1,2 +1,2 @@
 # Mi-CV
-Proyecto 2 DEVF
+Primer proyecto realizado, mmodelo de curriculum personal con uso de html y css básico.
